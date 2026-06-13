@@ -1,0 +1,14 @@
+name: SiuuuHomes
+version: 1.0
+main: de.siuuu.homes.SiuuuHomes
+api-version: '1.21'
+
+commands:
+  sethome:
+    usage: /sethome <name>
+
+  home:
+    usage: /home
+
+  delhome:
+    usage: /delhome <name>
